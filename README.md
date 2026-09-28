@@ -9,7 +9,8 @@ Abaixo, você encontrará uma tabela com todas as atividades práticas do semest
 
 | Unidade | Atividade | Tópicos Abordados | Status | Link para a Atividade |
 | :----- | :-------- | :---------------- | :----- | :-------------------- |
-| 1 | Laboratório Integrado - Parte 1: Nyquist, Taxa de Símbolos e Taxa Útil, com Dados Reais | Limite de Nyquist, taxa de símbolos, taxa útil (goodput), largura de banda a partir do espectro de um sinal real. | 🔥 ATUAL | [Acessar Atividade](./lab_integrado_unidade01/parte1/nyquist.md) |
+| 1 | Laboratório Integrado - Parte 1: Nyquist, Taxa de Símbolos e Taxa Útil, com Dados Reais | Limite de Nyquist, taxa de símbolos, taxa útil (goodput), largura de banda a partir do espectro de um sinal real. | ✅ Concluído | [Acessar Atividade](./lab_integrado_unidade01/nyqist//nyquist.md) |
+| 1 | Laboratório Integrado - Parte 2: Modulação Digital com Áudio & Análise de erros de comunicação | onversão de bits em sinais de áudio (FSK), codificação, decodificação, impacto do ruído. | 🔥 ATUAL | [Acessar Atividade](./lab_integrado_unidade01/modulacao/README.md)  |
 
 <!-- | 1 | Laboratório 1: Modulação Digital com Áudio & Análise de erros de comunicação | Conversão de bits em sinais de áudio (FSK), codificação, decodificação, impacto do ruído. | 🔥 ATUAL | [Acessar Atividade](./lab01/modulacao/README.md) | -->
 <!-- | 1 | Laboratório 2:  Implementação e Análise de erros de comunicação com CRC. | ✅ Concluído | [Acessar Atividade](./deteccao_de_erro//README.md) |
